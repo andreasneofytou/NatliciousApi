@@ -1,0 +1,6 @@
+@Natlicious.Api_HostAddress = http://localhost:5203
+
+GET {{Natlicious.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
